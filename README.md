@@ -73,6 +73,7 @@ Antes de executar o projeto, você precisa configurar as informações de conex�
 String url = "jdbc:postgresql://localhost:5432/nome_do_banco_de_dados";
 String username = "seu_usuario";
 String password = "sua_senha";
+```
 
 ## Executando o Projeto
 
